@@ -2,6 +2,7 @@
 This is an interactive map of rice-shrimp aquaculture research projects happening in the Vietnam Mekong Delta
 
 Vietnam_Map_folium.ipynb contains the code needed to generate the maps with a database of locations
+
 Vietnam_Map_folium_improvements.ipynb contains the code needed to generate the maps with a database of locations. The markers have tables of information and clickable links. These currently lead to downloading of PDF's since all the sources are papers in PDF form. 
 
 Python packages needed:

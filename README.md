@@ -16,3 +16,5 @@ numpy
 folium
 
 You can view the interactive map in the link below as Github does not display the folium maps: https://nbviewer.org/github/r-research/Vietnam-Aquaculture-Research-Map/blob/main/Mapping_Vietnam_folium.ipynb
+
+I created a Padlet version. Other users can add what they want here: (https://padlet.com/ksr108/vietnam-mekong-delta-aquaculture-research-gcoasq4stm1mltzo)
